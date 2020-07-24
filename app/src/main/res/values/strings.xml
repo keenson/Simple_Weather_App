@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Weather App</string>
+
+    <string name="zipcode_entry_error">Please enter a valid zipcode</string>
+</resources>
